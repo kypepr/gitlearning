@@ -29,8 +29,9 @@ git branch newnote
 
 git checkout newnote
 
-git merge master
+git merge newnote
 
 "ini ada nya di newnote branch yaa...."
 
 
+selesai tp blm di commit di git gmn ya

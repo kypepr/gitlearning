@@ -29,6 +29,8 @@ git branch newnote
 
 git checkout newnote
 
+git merge master
+
 "ini ada nya di newnote branch yaa...."
 
 

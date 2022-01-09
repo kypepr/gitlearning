@@ -39,7 +39,10 @@ git merge newnote
 
 -- introduction to GitHub
 
+
+youtube : https://youtu.be/nhNq2kIvi9s
 https://www.notion.so/zarkom/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7
+
 
 git remote add origin https://github.com/kypepr/gitlearning.git
 

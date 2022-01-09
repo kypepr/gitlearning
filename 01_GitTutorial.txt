@@ -1,5 +1,21 @@
 
 
+
+-- youtube data sources
+
+https://youtu.be/USjZcfj8yxE
 https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049
 
+
+git init
+
+git status
+
+git add file.js
+
+git commit -m "Commit message"
+
+git log --> commit history
+
+git checkout <commit-hash>
 

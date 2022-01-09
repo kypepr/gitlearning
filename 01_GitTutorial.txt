@@ -31,14 +31,21 @@ git checkout newnote
 
 git merge newnote
 
-"ini ada nya di newnote branch yaa...."
+"this comment should be only in newnote branch"
 
 
-selesai tp blm di commit di git gmn ya
-
+"done but not yet commit, what is the treatment?" 
 
 
 -- introduction to GitHub
 
 https://www.notion.so/zarkom/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7
+
+git remote add origin https://github.com/kypepr/gitlearning.git
+
+git remote -v
+
+git branch -M main
+
+
 

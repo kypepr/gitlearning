@@ -20,3 +20,15 @@ git log --> commit history
 git checkout <commit-hash>
 
 "test"
+
+git branch
+
+git checkout master
+
+git branch newnote
+
+git checkout newnote
+
+"ini ada nya di newnote branch yaa...."
+
+

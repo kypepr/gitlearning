@@ -35,3 +35,10 @@ git merge newnote
 
 
 selesai tp blm di commit di git gmn ya
+
+
+
+-- introduction to GitHub
+
+https://www.notion.so/zarkom/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7
+
